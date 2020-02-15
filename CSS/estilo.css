@@ -1,0 +1,30 @@
+div#cabecalho {
+    height: 15%;
+/*    border: 1px solid #000;*/
+}
+div#menu {
+    float: left;
+    width: 12%;
+    /*border: 1px solid #000;*/
+}
+div#corpo {
+    margin-left: 13%;
+    /*border: 1px solid #000;*/
+}
+div#rodape{
+    clear: both;
+    height: 10%;
+/*    border: 1px solid #000;*/
+}
+body{
+    font-family: sans-serif, monospace;
+    margin: 4px 4px 4px 4px;
+    color: #101213;
+    /*    background-image: url("tux.png");
+        background-attachment: fixed;
+        background-position: top left;
+        background-repeat: no-repeat;*/
+}
+h1#topo {
+    font-size: x-large;
+}
